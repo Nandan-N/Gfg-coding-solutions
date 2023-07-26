@@ -1,2 +1,2 @@
-# Dolphin
-🤖 A reddit bot
+# Gfg
+Coding solutions
